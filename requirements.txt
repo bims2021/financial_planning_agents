@@ -1,0 +1,8 @@
+langchain==0.1.0
+langchain-openai==0.0.2
+langgraph==0.0.20
+gradio==4.10.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+pytest==7.4.3
+pytest-asyncio==0.21.1
